@@ -6,12 +6,7 @@ I'm a backend developer student.
 
 # My Stats in Github
 
-<a href="https://github.com/anuraghazra/convoychat">
-    <img height=250 src="https://github-readme-stats.vercel.app/api?username=guilhermesilva1000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesilva1000&layout=donut&langs_count=32&show_icons=true&theme=chartreuse-dark"/>
-</a>
+![guilhermesilva1000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermesilva1000&theme=vue-dark&hide_border=true)
 
 ---
 

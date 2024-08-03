@@ -20,4 +20,4 @@ I'm a backend developer student.
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://pt.wikipedia.org/wiki/TypeScript)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://pt.wikipedia.org/wiki/Node.js)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://pt.wikipedia.org/wiki/Python)
-[![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://pt.wikipedia.org/wiki/Vue.js)
+[![VueJS](https://img.shields.io/badge/Vue.js-43853D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://pt.wikipedia.org/wiki/Vue.js)

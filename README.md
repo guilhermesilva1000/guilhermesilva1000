@@ -1,6 +1,6 @@
 # Hello! I'm Guilherme Silva 🦊
 
-I'm a backend developer student.
+I'm a FullStack developer student.
 
 ---
 
